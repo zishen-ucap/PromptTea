@@ -23,6 +23,14 @@ This repository contains the official implementation of our paper: PromptTea: Le
 - [PromptTea4Wan2.1](./PromptTea4Wan2.1/README.md)
 - [PromptTea4Wan2.2](./PromptTea4Wan2.2/README.md)
 
+**Image to Video**
+- [PromptTea4Wan2.2-I2V](./PromptTea4Wan2.2-I2V/README.md)
+
+**Audio-Driven**
+- [PromptTea4Wan2.2-S2V](./PromptTea4Wan2.2-S2V/README.md)
+
+
+
 
 ## 💐 Acknowledgement 
 
