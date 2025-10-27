@@ -9,6 +9,7 @@ This repository contains the official implementation of our paper: PromptTea: Le
 
 ## 🔥 Latest News 
 - If you like our project, please give us a star ⭐ on GitHub for the latest update.
+- **[2025/10/27]** 🔥 Support multi-gpu parallel inference for the [Wan2.2-I2V](https://github.com/Wan-Video/Wan2.2) and [Wan2.2-S2V](https://github.com/Wan-Video/Wan2.2).
 - **[2025/10/09]** 🎉 The dataset of [Complex-Simple prompt](./our_data.py) in the paper, as well as the [dataset of the fitting model](./model_fit_prompt), have been made public. The dataset of the fitting model is from [T2V-CompBench](https://github.com/KaiyueSun98/T2V-CompBench).
 - **[2025/08/06]** 🔥 Support [Wan2.2](https://github.com/Wan-Video/Wan2.2).
 - **[2025/07/30]** 🔥 Support multi-gpu parallel inference for the [Wan2.1](https://github.com/Wan-Video/Wan2.1).  

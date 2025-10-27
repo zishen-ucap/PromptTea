@@ -1,5 +1,5 @@
 <!-- ## **PromptTea4Wan2.1** -->
-# PromptTea4Wan2.1
+# PromptTea4Wan2.2
 
 https://github.com/user-attachments/assets/0c665733-a8a6-401d-9791-8dba6af54bdf
 
